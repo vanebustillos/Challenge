@@ -1,0 +1,9 @@
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfo.cs
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.deps.json
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\vaneb\source\repos\EventTicketingApp\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.pdb

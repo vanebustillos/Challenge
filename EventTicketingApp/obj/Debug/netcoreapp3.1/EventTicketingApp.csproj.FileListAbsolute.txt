@@ -1,0 +1,16 @@
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\obj\Debug\netcoreapp3.1\EventTicketingApp.csprojAssemblyReference.cache
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\obj\Debug\netcoreapp3.1\EventTicketingApp.AssemblyInfoInputs.cache
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\obj\Debug\netcoreapp3.1\EventTicketingApp.AssemblyInfo.cs
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\obj\Debug\netcoreapp3.1\EventTicketingApp.csproj.CoreCompileInputs.cache
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\bin\Debug\netcoreapp3.1\EventTicketingApp.exe
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\bin\Debug\netcoreapp3.1\EventTicketingApp.deps.json
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\bin\Debug\netcoreapp3.1\EventTicketingApp.runtimeconfig.json
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\bin\Debug\netcoreapp3.1\EventTicketingApp.runtimeconfig.dev.json
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\bin\Debug\netcoreapp3.1\EventTicketingApp.dll
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\bin\Debug\netcoreapp3.1\EventTicketingApp.pdb
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\obj\Debug\netcoreapp3.1\EventTicketingApp.csproj.CopyComplete
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\obj\Debug\netcoreapp3.1\EventTicketingApp.dll
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\obj\Debug\netcoreapp3.1\EventTicketingApp.pdb
+C:\Users\vaneb\source\repos\EventTicketingApp\EventTicketingApp\obj\Debug\netcoreapp3.1\EventTicketingApp.genruntimeconfig.cache

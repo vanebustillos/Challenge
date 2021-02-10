@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTicketingApp", "EventTicketingApp\EventTicketingApp.csproj", "{58D18618-E9FC-46EB-A67F-809F4F2A7478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{C194AC26-A799-4E41-8A5A-F663482E218A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D18618-E9FC-46EB-A67F-809F4F2A7478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D18618-E9FC-46EB-A67F-809F4F2A7478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D18618-E9FC-46EB-A67F-809F4F2A7478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D18618-E9FC-46EB-A67F-809F4F2A7478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C194AC26-A799-4E41-8A5A-F663482E218A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C194AC26-A799-4E41-8A5A-F663482E218A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C194AC26-A799-4E41-8A5A-F663482E218A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C194AC26-A799-4E41-8A5A-F663482E218A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8B47F8C-6C1A-40A8-B02C-897B4F5CD4F8}
+	EndGlobalSection
+EndGlobal
